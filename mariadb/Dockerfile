@@ -1,5 +1,4 @@
 FROM mariadb
-MAINTAINER Docker Newbee stone.huang@hyweb.com.tw
 
 ENV MYSQL_ROOT_PASSWORD hyweb
 
