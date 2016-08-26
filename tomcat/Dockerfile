@@ -1,6 +1,5 @@
 # This is a comment
 FROM tomcat:8.0
-MAINTAINER Docker Newbee stone.huang@hyweb.com.tw
 
 # 安裝mariadb(-y表示互動皆回覆y)
 #RUN apt-get update && apt-get install -y mariadb-client
